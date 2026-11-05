@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150">
+        <rect width="300" height="150" fill="#5C2D91"/>
+        <circle cx="150" cy="50" r="25" fill="white"/>
+        <rect x="110" y="85" width="80" height="45" rx="20" fill="white"/>
+        <text x="150" y="145"
+              font-size="14"
+              text-anchor="middle"
+              fill="white">
+            Cliente
+        </text>
+    </svg>
